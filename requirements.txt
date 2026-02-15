@@ -1,0 +1,9 @@
+transformers
+pandas
+numpy
+seaborn
+matplotlib
+accelerate
+bitsandbytes
+wordcloud
+scipy
